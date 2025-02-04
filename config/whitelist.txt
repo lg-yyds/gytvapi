@@ -6,4 +6,5 @@ https://hg.130707.xyz/Sub?type=txt
 https://www.freetv.top/migu.m3u
 http://php.jdshipin.com/TVOD/
 http://4gtv.mumi.rip
+https://live.hkdvb.com/hls/playlist.m3u?token=809688637328974
 http://tv.lihonest.xyz:3000/AKTV/live/aktv3/
