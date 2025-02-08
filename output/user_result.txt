@@ -12,7 +12,6 @@ CCTV-1,http://hg.130707.xyz/5000000010000030810/bestzb/index.m3u8
 CCTV-1,http://hg.130707.xyz/1000000001000021973/ystenlive/index.m3u8
 CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=d46a7802f5e358560129ef9519cb7db38f9f355847dd255fb5ac47a4bf8e3c6b5b980b45749fb1cb373b654d43a6fc41c66a124ad66ee40a80f07e155334fe6f023993dc3f284f86ab66653797
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-CCTV-1,http://goo.bkpcp.top/mg/cctv1
 CCTV-1,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv1
 CCTV-1,http://1b6467f415.iok.la:9931
 CCTV-2,http://hg.130707.xyz/6000000001000014161/wasusyt/index.m3u8
@@ -21,8 +20,6 @@ CCTV-2,http://hg.130707.xyz/5000000011000031101/bestzb/index.m3u8
 CCTV-2,http://hg.130707.xyz/1000000005000265002/ystenlive/index.m3u8
 CCTV-2,http://hg.130707.xyz/1000000001000012442/ystenlive/index.m3u8
 CCTV-2,https://www.freetv.top/migu/631780532.m3u8?migutoken=6f589f929945331767ef466f5f4cb6ccee0346b95c4bae5bbd6b99321f160d076257570ccc9b882f37a0bd95f05b1a1b9830393bd269f71445b0e5d01684c40a8cf16759a5bbdf9d5dff243250
-CCTV-2,http://goo.bkpcp.top/mg/cctv2
-CCTV-2,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv2
 CCTV-2,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv2
 CCTV-2,http://1b6467f415.iok.la:9931
 CCTV-3,http://hg.130707.xyz/6000000001000022313/wasusyt/index.m3u8
@@ -32,8 +29,6 @@ CCTV-3,http://hg.130707.xyz/1000000005000265003/ystenlive/index.m3u8
 CCTV-3,http://hg.130707.xyz/5000000002000020548/bestzb/index.m3u8
 CCTV-3,http://hg.130707.xyz/1000000001000011218/ystenlive/index.m3u8
 CCTV-3,https://www.freetv.top/migu/624878271.m3u8?migutoken=d2f5e7c9e37c0b31c1e675570e64cff15a1f3d4cc205147b55d1c5c9bb6dabbe7f90a086a034b81e426ec6972d34b1a781ff13dc117f082e339a9ed2a182bf981810fdf1dcec27a84fadf629e3
-CCTV-3,http://goo.bkpcp.top/mg/cctv3
-CCTV-3,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv3
 CCTV-3,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv3
 CCTV-4,http://hg.130707.xyz/5000000011000031102/bestzb/index.m3u8
 CCTV-4,http://hg.130707.xyz/1000000005000265004/ystenlive/index.m3u8
@@ -41,9 +36,6 @@ CCTV-4,http://hg.130707.xyz/1000000002000031664/ystenlive/index.m3u8
 CCTV-4,http://hg.130707.xyz/5000000005000030093/bestzb/index.m3u8
 CCTV-4,https://www.freetv.top/migu/631780421.m3u8?migutoken=a9dc91f414bc7e0c08baaefadb625de0a435b601e53c304b0e7136f5652e9c430e0b33c824ef626493ec90ee7f0297a18640fac239857ad95fd5e8e291c0a860ba29c8d7240307b6fe815e7afa
 CCTV-4,https://www.freetv.top/migu/608807419.m3u8?migutoken=9d9247b6b7d39f35af3776efa6f0d2b55d024a7ad2ac1840629385f574095dfb63a7ce6132ef72545a0c38556b4bb04c4911b10258dd281441b3fe507f2630c435e8a608a0ade4cfd0db45b7b8
-CCTV-4,http://goo.bkpcp.top/mg/cctv4
-CCTV-4,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv4a
-CCTV-4,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv4
 CCTV-4,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv4
 CCTV-5,http://hg.130707.xyz/1000000005000025222/ystenlive/index.m3u8
 CCTV-5,http://hg.130707.xyz/6000000001000016431/wasusyt/index.m3u8
@@ -54,8 +46,6 @@ CCTV-5,http://hg.130707.xyz/5000000010000016619/bestzb/index.m3u8
 CCTV-5,http://hg.130707.xyz/1000000001000004794/ystenlive/index.m3u8
 CCTV-5,https://www.freetv.top/migu/641886683.m3u8?migutoken=5e1f646f194fe505d91d562e427139a8cc1907bd48dbf0388a09a0a57428cb16498ab48b116a9fe1e0d3ef6b41b7157fda1e479f019ed20c5e1f164191b09d3d0e81f1d62352a2b14387f833e5
 CCTV-5,https://live.hkdvb.com/hls/live/701.m3u8?token=809688637328974
-CCTV-5,http://goo.bkpcp.top/mg/cctv5
-CCTV-5,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv5
 CCTV-5,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv5
 CCTV-5+,http://hg.130707.xyz/6000000001000015875/wasusyt/index.m3u8
 CCTV-5+,http://hg.130707.xyz/1000000001000018504/ystenlive/index.m3u8
@@ -73,7 +63,6 @@ CCTV-6,http://hg.130707.xyz/1000000005000265006/ystenlive/index.m3u8
 CCTV-6,http://hg.130707.xyz/5000000010000018433/bestzb/index.m3u8
 CCTV-6,http://hg.130707.xyz/1000000001000016466/ystenlive/index.m3u8
 CCTV-6,https://www.freetv.top/migu/624878396.m3u8?migutoken=680307806d82b89a0fb49996b2ac29f029f4acaa517daa479e0e7b48de1925cbaf5d59d33296ab91d331a8f6d9427efbd62c58c14828357513663ce40c85b2fcfc05583339543a10f4a02d75d0
-CCTV-6,http://goo.bkpcp.top/mg/cctv6
 CCTV-6,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv6
 CCTV-7,http://hg.130707.xyz/6000000001000009055/wasusyt/index.m3u8
 CCTV-7,http://hg.130707.xyz/1000000001000024341/ystenlive/index.m3u8
@@ -82,8 +71,6 @@ CCTV-7,http://hg.130707.xyz/1000000005000265007/ystenlive/index.m3u8
 CCTV-7,http://hg.130707.xyz/1000000001000017218/ystenlive/index.m3u8
 CCTV-7,http://hg.130707.xyz/5000000005000026715/bestzb/index.m3u8
 CCTV-7,https://www.freetv.top/migu/673168121.m3u8?migutoken=39f299ba0d4c0dd00c89550497da4b7b2de0752f52a9831160904f0fa48d0e4f14936c2d2e794d39ef3d9fec119c22460c845abc4c1f894d73f27e21754ec4a1aec51a4285c036e5a6febf8b71
-CCTV-7,http://goo.bkpcp.top/mg/cctv7
-CCTV-7,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv7
 CCTV-7,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv7
 CCTV-7,http://1b6467f415.iok.la:9931
 CCTV-8,http://hg.130707.xyz/6000000001000001070/wasusyt/index.m3u8
@@ -93,8 +80,6 @@ CCTV-8,http://hg.130707.xyz/1000000005000265008/ystenlive/index.m3u8
 CCTV-8,http://hg.130707.xyz/5000000010000018377/bestzb/index.m3u8
 CCTV-8,http://hg.130707.xyz/1000000001000003736/ystenlive/index.m3u8
 CCTV-8,https://www.freetv.top/migu/624878356.m3u8?migutoken=b6bce97768d7caac9fc2fb4c95d2584099bb5182debc840566aba081f076e01bb52f523d5dac6e05ed3168cb446def3a2d8e690f15efdaa70b76a68f1f83449a8e733c0109a2da93439751d25f
-CCTV-8,http://goo.bkpcp.top/mg/cctv8
-CCTV-8,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv8
 CCTV-8,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv8
 CCTV-9,http://hg.130707.xyz/6000000001000032162/wasusyt/index.m3u8
 CCTV-9,http://hg.130707.xyz/1000000001000014583/ystenlive/index.m3u8
@@ -102,8 +87,6 @@ CCTV-9,http://hg.130707.xyz/1000000005000265009/ystenlive/index.m3u8
 CCTV-9,http://hg.130707.xyz/5000000010000018384/bestzb/index.m3u8
 CCTV-9,http://hg.130707.xyz/1000000001000028286/ystenlive/index.m3u8
 CCTV-9,https://www.freetv.top/migu/673168140.m3u8?migutoken=32f20b17d3c7bff0b9089c8663f150a392ce13d1df9995a28c4323e1dc5a31e1aa745425fc53d82943ed6cb0efba69c61fb08d40663d483af3e68fbb853e1b706218bd7a063b79e8cf9e9451eb
-CCTV-9,http://goo.bkpcp.top/mg/cctv9
-CCTV-9,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv9
 CCTV-9,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv9
 CCTV-9,http://1b6467f415.iok.la:9931
 CCTV-10,http://hg.130707.xyz/5000000004000012827/bestzb/index.m3u8
@@ -113,7 +96,6 @@ CCTV-10,http://hg.130707.xyz/1000000005000265010/ystenlive/index.m3u8
 CCTV-10,http://hg.130707.xyz/5000000010000016738/bestzb/index.m3u8
 CCTV-10,http://hg.130707.xyz/1000000001000026367/ystenlive/index.m3u8
 CCTV-10,https://www.freetv.top/migu/624878405.m3u8?migutoken=dc9e41d483fefd536dad7a6eb4d91f4a9d37e906ce1c582b1cc85960d34d36df8b864db7f8148188e2997210544c1455ac19fa4063b67d5521ece7addf0089d1209518e453b304d3fde926ff6a
-CCTV-10,http://goo.bkpcp.top/mg/cctv10
 CCTV-10,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv10
 CCTV-10,http://1b6467f415.iok.la:9931
 CCTV-11,http://hg.130707.xyz/5000000011000031106/bestzb/index.m3u8
@@ -121,8 +103,6 @@ CCTV-11,http://hg.130707.xyz/1000000005000265011/ystenlive/index.m3u8
 CCTV-11,http://hg.130707.xyz/5000000006000040011/bestzb/index.m3u8
 CCTV-11,http://hg.130707.xyz/1000000002000019789/ystenlive/index.m3u8
 CCTV-11,https://www.freetv.top/migu/667987558.m3u8?migutoken=6f0aba8bb528e29d40340f6930899fd9d7af9fd013c355a61146d5528e6ac297c46d65935ffcea640455737c324736dd8a29f22083f5450155873c9e89d3a4fb8b6b92b897a7dc62ad55fd891d
-CCTV-11,http://goo.bkpcp.top/mg/cctv11
-CCTV-11,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv11
 CCTV-11,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv11
 CCTV-12,http://hg.130707.xyz/6000000001000022586/wasusyt/index.m3u8
 CCTV-12,http://hg.130707.xyz/1000000001000032494/ystenlive/index.m3u8
@@ -131,15 +111,12 @@ CCTV-12,http://hg.130707.xyz/1000000005000265012/ystenlive/index.m3u8
 CCTV-12,http://hg.130707.xyz/1000000001000001640/ystenlive/index.m3u8
 CCTV-12,http://hg.130707.xyz/5000000006000040012/bestzb/index.m3u8
 CCTV-12,https://www.freetv.top/migu/673168185.m3u8?migutoken=6da0b98d673331a792733285434b6f75aefe1d72574d51d388f210f853362b7f5cd07a7969ae76778b0d05129f6c205abeb3a168906b638ece23bdde93d5a86f47482052cd9b44f53ceefb2207
-CCTV-12,http://goo.bkpcp.top/mg/cctv12
 CCTV-12,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv12
 CCTV-12,http://1b6467f415.iok.la:9931
 CCTV-13,http://hg.130707.xyz/5000000011000031108/bestzb/index.m3u8
 CCTV-13,http://hg.130707.xyz/5000000005000001827/bestzb/index.m3u8
 CCTV-13,http://hg.130707.xyz/1000000002000021303/ystenlive/index.m3u8
 CCTV-13,https://www.freetv.top/migu/608807423.m3u8?migutoken=b3b4ddc2f6494b8b098f8722480f65f33fabde80e2873f9c7ad3a37c1d0e0053da396027d844896109a0c960d9c8be0b4932204b5648e71ef398f07c48501fade68f689c2175b139ba190f4ab4
-CCTV-13,http://goo.bkpcp.top/mg/cctv13
-CCTV-13,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv13
 CCTV-13,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv13
 CCTV-14,http://hg.130707.xyz/5000000004000006673/bestzb/index.m3u8
 CCTV-14,http://hg.130707.xyz/6000000001000013647/wasusyt/index.m3u8
@@ -148,8 +125,6 @@ CCTV-14,http://hg.130707.xyz/1000000005000265013/ystenlive/index.m3u8
 CCTV-14,http://hg.130707.xyz/5000000010000023358/bestzb/index.m3u8
 CCTV-14,http://hg.130707.xyz/1000000001000021349/ystenlive/index.m3u8
 CCTV-14,https://www.freetv.top/migu/624878440.m3u8?migutoken=1b7aa8a15094a26172919cd883595f1a0cb5460e33b4201b6005928c8b8c5c489012c8c4b08450876f1b5968978b5e37bde9477f4312ec274de2e023d796328408517d2b766797d50e24fcae1e
-CCTV-14,http://goo.bkpcp.top/mg/cctv14
-CCTV-14,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv14
 CCTV-14,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv14
 CCTV-14,http://1b6467f415.iok.la:9931
 CCTV-15,http://hg.130707.xyz/5000000011000031109/bestzb/index.m3u8
@@ -157,8 +132,6 @@ CCTV-15,http://hg.130707.xyz/1000000005000265014/ystenlive/index.m3u8
 CCTV-15,http://hg.130707.xyz/1000000002000008163/ystenlive/index.m3u8
 CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=ecd60d6a580d9f4027ec08213b2a5beffae7f99e3e556123f72b08c8d0bedb77620cbbc5d72108ff458b15f605abc992ccdc991b35dd34802a57ca114b8f7875c9bce1ddfe5bd6775f12be875a
 CCTV-15,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000512
-CCTV-15,http://goo.bkpcp.top/mg/cctv15
-CCTV-15,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv15
 CCTV-15,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv15
 CCTV-16,http://hg.130707.xyz/1000000006000233002/ystenlive/index.m3u8
 CCTV-16,http://hg.130707.xyz/5000000008000023253/bestzb/index.m3u8
@@ -170,8 +143,6 @@ CCTV-17,http://hg.130707.xyz/1000000005000265015/ystenlive/index.m3u8
 CCTV-17,http://hg.130707.xyz/1000000005000056836/ystenlive/index.m3u8
 CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=9094be8a5828bcdca0c02d6805bd52cc36e4d16a29031a320eaed60d6d74d5b36653a81c659450938ab30e91f4b27468f176d304463164c178f446ff6d44d623dd787da315c58de6d4d0010bb1
 CCTV-17,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000513
-CCTV-17,http://goo.bkpcp.top/mg/cctv17
-CCTV-17,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv17
 CCTV-17,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv17
 CCTV-17,http://1b6467f415.iok.la:9931
 广东卫视,http://hg.130707.xyz/5000000004000014694/bestzb/index.m3u8
@@ -191,11 +162,9 @@ CCTV-17,http://1b6467f415.iok.la:9931
 湖北卫视,http://hg.130707.xyz/1000000001000010355/ystenlive/index.m3u8
 湖北卫视,https://www.freetv.top/migu/947472496.m3u8?migutoken=505a354d8230847b4cbb1c1fb91667eb54316dd8479f5229c8881f54645eb805f1559abb0c08457d87960d6e2ce3e846c8726b8cd53f8b958dd1d87f76f316368948e8b88b2c4b3dd1b1a2c8eb
 湖北卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226477
-湖北卫视,http://goo.bkpcp.top/mg/hubws
 湖北卫视,http://1b6467f415.iok.la:9931
 东方卫视,https://www.freetv.top/migu/651632648.m3u8?migutoken=70f8eed447e228f3a56a4c95bfd1ef7936ab4f75e51e3265478e1262b62f33a7d7a4be2d80fd3585f29cd990ea0ee9d67f76f299229509e007f26ccd58641bc444d7baeccead6d0915dae8e089
 东方卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226345
-东方卫视,http://goo.bkpcp.top/mg/dfws
 东方卫视,http://1b6467f415.iok.la:9931
 江苏卫视,http://hg.130707.xyz/6000000001000014861/wasusyt/index.m3u8
 江苏卫视,http://hg.130707.xyz/1000000001000001828/ystenlive/index.m3u8
@@ -205,8 +174,6 @@ CCTV-17,http://1b6467f415.iok.la:9931
 江苏卫视,http://hg.130707.xyz/1000000001000004684/ystenlive/index.m3u8
 江苏卫视,https://www.freetv.top/migu/623899368.m3u8?migutoken=17c1976a17035ae05ad23e8fa0936b489a2297a878720dde0b1512e63ce991528770aac83995d038cbfcc451c5e7bbc1332366c87a374dcc617f46c04a5cc5740504af3b64621f96fe3103960a
 江苏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226310
-江苏卫视,http://goo.bkpcp.top/mg/jsws
-江苏卫视,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=jsws
 江苏卫视,http://1b6467f415.iok.la:9931
 江西卫视,http://hg.130707.xyz/1000000006000268001/ystenlive/index.m3u8
 江西卫视,http://hg.130707.xyz/5000000004000011210/bestzb/index.m3u8
@@ -215,29 +182,22 @@ CCTV-17,http://1b6467f415.iok.la:9931
 江西卫视,http://hg.130707.xyz/1000000001000013731/ystenlive/index.m3u8
 江西卫视,https://www.freetv.top/migu/783847495.m3u8?migutoken=d79c0ec6a02932cf8283f0ff172f4cb38c17170ba7833e3e5f23147ce2b0ef34182760928059dfe0d749281cfeb17ee0f855817d2f808b16240d93bfc33efb41a2368a5aebe3ce5cd9a2498c37
 江西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226344
-江西卫视,http://goo.bkpcp.top/mg/jxws
 江西卫视,http://1b6467f415.iok.la:9931
 陕西卫视,http://hg.130707.xyz/1000000002000007495/ystenlive/index.m3u8
 陕西卫视,http://hg.130707.xyz/5000000006000040017/bestzb/index.m3u8
 陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=3899cd1daaa04f812c6d4b13126e3c00ad177635abc5559f1b596e814ff8eb3d745e7bd40b881206a2852a5ed041ca424112cf1d9b385c72ea9de42c8d86f45227af0f51a8b4f4c18a038a8e6d
 陕西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225625
-陕西卫视,http://goo.bkpcp.top/mg/sxws
 陕西卫视,http://139.129.231.228:50060/rtp/239.21.1.30:5002
 陕西卫视,http://1b6467f415.iok.la:9931
-七彩戏剧,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=qcxj
 七彩戏剧,http://139.196.151.191:2051/rtp/239.45.3.61:5140
-东方影视,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=dfys
 东方影视,http://139.196.151.191:2051/rtp/239.45.3.237:5140
 新闻综合,http://139.196.151.191:2051/rtp/239.45.3.209:5140
 新闻综合,http://139.129.231.228:50060/rtp/239.21.1.193:5002
 CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=349eea7192c2c2355da977cb96d45425817e45edff704da0ef6f38deb2654b2d88e02820ed5ae085e553d5354125ce72b3c078c70ff7bc803c4920219da310f38683a377836b73ac832eb34841
 CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=182270e32a66873c8b3f92ae65c82427f940bdb97571d39e4d7af517b22aee0036f6724970c195000d96589b7daeb701e1136223a5e873bb3c7ba93b94c8d6e27bcc459d8bc1be6a3d98aa377d
-CHC动作电影,http://goo.bkpcp.top/mg/chcdz
 劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=327f98918bf7972dcf9fd71126bf9b7e0a4daf0681d0c212706bd55e40e3d919ea1e2ab13f7e1275958beff2bace2c9b5899adf7fcb5d54f654ebeb4641f98a9ea2811fd521134361362f63a6a
 魅力足球,https://www.freetv.top/migu/796070308.m3u8?migutoken=b23fb62e82e6bb936fd9c5e874be181aec28a469ca0bb019624e589d2d4cd43562a41284b340042159bfbc73133c9f0404533591752de60b213c9e32599416dce8f93d38d079100f0dd99e2911
 游戏风云,https://www.freetv.top/migu/790188417.m3u8?migutoken=02f6b7a39a9b599736f8f03a86b5173c59381a0c8f76ba2787f832bcda338479f2b13ff9dd3b18982dbd4f832a89065c0a033f3d6d4295f05968d20e21aa42f9d5e85d7aa2772d210366229e6e
-游戏风云,http://goo.bkpcp.top/mg/yxfy
-游戏风云,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=yxfy
 游戏风云,http://139.196.151.191:2051/rtp/239.45.3.131:5140
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
@@ -283,7 +243,6 @@ CCTV-1,http://hg.130707.xyz/5000000010000030810/bestzb/index.m3u8
 CCTV-1,http://hg.130707.xyz/1000000001000021973/ystenlive/index.m3u8
 CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=d46a7802f5e358560129ef9519cb7db38f9f355847dd255fb5ac47a4bf8e3c6b5b980b45749fb1cb373b654d43a6fc41c66a124ad66ee40a80f07e155334fe6f023993dc3f284f86ab66653797
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-CCTV-1,http://goo.bkpcp.top/mg/cctv1
 CCTV-1,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv1
 CCTV-1,http://1b6467f415.iok.la:9931
 CCTV-2,http://hg.130707.xyz/6000000001000014161/wasusyt/index.m3u8
@@ -292,8 +251,6 @@ CCTV-2,http://hg.130707.xyz/5000000011000031101/bestzb/index.m3u8
 CCTV-2,http://hg.130707.xyz/1000000005000265002/ystenlive/index.m3u8
 CCTV-2,http://hg.130707.xyz/1000000001000012442/ystenlive/index.m3u8
 CCTV-2,https://www.freetv.top/migu/631780532.m3u8?migutoken=6f589f929945331767ef466f5f4cb6ccee0346b95c4bae5bbd6b99321f160d076257570ccc9b882f37a0bd95f05b1a1b9830393bd269f71445b0e5d01684c40a8cf16759a5bbdf9d5dff243250
-CCTV-2,http://goo.bkpcp.top/mg/cctv2
-CCTV-2,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv2
 CCTV-2,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv2
 CCTV-2,http://1b6467f415.iok.la:9931
 CCTV-3,http://hg.130707.xyz/6000000001000022313/wasusyt/index.m3u8
@@ -303,8 +260,6 @@ CCTV-3,http://hg.130707.xyz/1000000005000265003/ystenlive/index.m3u8
 CCTV-3,http://hg.130707.xyz/5000000002000020548/bestzb/index.m3u8
 CCTV-3,http://hg.130707.xyz/1000000001000011218/ystenlive/index.m3u8
 CCTV-3,https://www.freetv.top/migu/624878271.m3u8?migutoken=d2f5e7c9e37c0b31c1e675570e64cff15a1f3d4cc205147b55d1c5c9bb6dabbe7f90a086a034b81e426ec6972d34b1a781ff13dc117f082e339a9ed2a182bf981810fdf1dcec27a84fadf629e3
-CCTV-3,http://goo.bkpcp.top/mg/cctv3
-CCTV-3,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv3
 CCTV-3,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv3
 CCTV-4,http://hg.130707.xyz/5000000011000031102/bestzb/index.m3u8
 CCTV-4,http://hg.130707.xyz/1000000005000265004/ystenlive/index.m3u8
@@ -312,9 +267,6 @@ CCTV-4,http://hg.130707.xyz/1000000002000031664/ystenlive/index.m3u8
 CCTV-4,http://hg.130707.xyz/5000000005000030093/bestzb/index.m3u8
 CCTV-4,https://www.freetv.top/migu/631780421.m3u8?migutoken=a9dc91f414bc7e0c08baaefadb625de0a435b601e53c304b0e7136f5652e9c430e0b33c824ef626493ec90ee7f0297a18640fac239857ad95fd5e8e291c0a860ba29c8d7240307b6fe815e7afa
 CCTV-4,https://www.freetv.top/migu/608807419.m3u8?migutoken=9d9247b6b7d39f35af3776efa6f0d2b55d024a7ad2ac1840629385f574095dfb63a7ce6132ef72545a0c38556b4bb04c4911b10258dd281441b3fe507f2630c435e8a608a0ade4cfd0db45b7b8
-CCTV-4,http://goo.bkpcp.top/mg/cctv4
-CCTV-4,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv4a
-CCTV-4,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv4
 CCTV-4,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv4
 CCTV-5,http://hg.130707.xyz/1000000005000025222/ystenlive/index.m3u8
 CCTV-5,http://hg.130707.xyz/6000000001000016431/wasusyt/index.m3u8
@@ -325,8 +277,6 @@ CCTV-5,http://hg.130707.xyz/5000000010000016619/bestzb/index.m3u8
 CCTV-5,http://hg.130707.xyz/1000000001000004794/ystenlive/index.m3u8
 CCTV-5,https://www.freetv.top/migu/641886683.m3u8?migutoken=5e1f646f194fe505d91d562e427139a8cc1907bd48dbf0388a09a0a57428cb16498ab48b116a9fe1e0d3ef6b41b7157fda1e479f019ed20c5e1f164191b09d3d0e81f1d62352a2b14387f833e5
 CCTV-5,https://live.hkdvb.com/hls/live/701.m3u8?token=809688637328974
-CCTV-5,http://goo.bkpcp.top/mg/cctv5
-CCTV-5,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv5
 CCTV-5,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv5
 CCTV-5+,http://hg.130707.xyz/6000000001000015875/wasusyt/index.m3u8
 CCTV-5+,http://hg.130707.xyz/1000000001000018504/ystenlive/index.m3u8
@@ -344,7 +294,6 @@ CCTV-6,http://hg.130707.xyz/1000000005000265006/ystenlive/index.m3u8
 CCTV-6,http://hg.130707.xyz/5000000010000018433/bestzb/index.m3u8
 CCTV-6,http://hg.130707.xyz/1000000001000016466/ystenlive/index.m3u8
 CCTV-6,https://www.freetv.top/migu/624878396.m3u8?migutoken=680307806d82b89a0fb49996b2ac29f029f4acaa517daa479e0e7b48de1925cbaf5d59d33296ab91d331a8f6d9427efbd62c58c14828357513663ce40c85b2fcfc05583339543a10f4a02d75d0
-CCTV-6,http://goo.bkpcp.top/mg/cctv6
 CCTV-6,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv6
 CCTV-7,http://hg.130707.xyz/6000000001000009055/wasusyt/index.m3u8
 CCTV-7,http://hg.130707.xyz/1000000001000024341/ystenlive/index.m3u8
@@ -353,8 +302,6 @@ CCTV-7,http://hg.130707.xyz/1000000005000265007/ystenlive/index.m3u8
 CCTV-7,http://hg.130707.xyz/1000000001000017218/ystenlive/index.m3u8
 CCTV-7,http://hg.130707.xyz/5000000005000026715/bestzb/index.m3u8
 CCTV-7,https://www.freetv.top/migu/673168121.m3u8?migutoken=39f299ba0d4c0dd00c89550497da4b7b2de0752f52a9831160904f0fa48d0e4f14936c2d2e794d39ef3d9fec119c22460c845abc4c1f894d73f27e21754ec4a1aec51a4285c036e5a6febf8b71
-CCTV-7,http://goo.bkpcp.top/mg/cctv7
-CCTV-7,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv7
 CCTV-7,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv7
 CCTV-7,http://1b6467f415.iok.la:9931
 CCTV-8,http://hg.130707.xyz/6000000001000001070/wasusyt/index.m3u8
@@ -364,8 +311,6 @@ CCTV-8,http://hg.130707.xyz/1000000005000265008/ystenlive/index.m3u8
 CCTV-8,http://hg.130707.xyz/5000000010000018377/bestzb/index.m3u8
 CCTV-8,http://hg.130707.xyz/1000000001000003736/ystenlive/index.m3u8
 CCTV-8,https://www.freetv.top/migu/624878356.m3u8?migutoken=b6bce97768d7caac9fc2fb4c95d2584099bb5182debc840566aba081f076e01bb52f523d5dac6e05ed3168cb446def3a2d8e690f15efdaa70b76a68f1f83449a8e733c0109a2da93439751d25f
-CCTV-8,http://goo.bkpcp.top/mg/cctv8
-CCTV-8,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv8
 CCTV-8,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv8
 CCTV-9,http://hg.130707.xyz/6000000001000032162/wasusyt/index.m3u8
 CCTV-9,http://hg.130707.xyz/1000000001000014583/ystenlive/index.m3u8
@@ -373,8 +318,6 @@ CCTV-9,http://hg.130707.xyz/1000000005000265009/ystenlive/index.m3u8
 CCTV-9,http://hg.130707.xyz/5000000010000018384/bestzb/index.m3u8
 CCTV-9,http://hg.130707.xyz/1000000001000028286/ystenlive/index.m3u8
 CCTV-9,https://www.freetv.top/migu/673168140.m3u8?migutoken=32f20b17d3c7bff0b9089c8663f150a392ce13d1df9995a28c4323e1dc5a31e1aa745425fc53d82943ed6cb0efba69c61fb08d40663d483af3e68fbb853e1b706218bd7a063b79e8cf9e9451eb
-CCTV-9,http://goo.bkpcp.top/mg/cctv9
-CCTV-9,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv9
 CCTV-9,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv9
 CCTV-9,http://1b6467f415.iok.la:9931
 CCTV-10,http://hg.130707.xyz/5000000004000012827/bestzb/index.m3u8
@@ -384,7 +327,6 @@ CCTV-10,http://hg.130707.xyz/1000000005000265010/ystenlive/index.m3u8
 CCTV-10,http://hg.130707.xyz/5000000010000016738/bestzb/index.m3u8
 CCTV-10,http://hg.130707.xyz/1000000001000026367/ystenlive/index.m3u8
 CCTV-10,https://www.freetv.top/migu/624878405.m3u8?migutoken=dc9e41d483fefd536dad7a6eb4d91f4a9d37e906ce1c582b1cc85960d34d36df8b864db7f8148188e2997210544c1455ac19fa4063b67d5521ece7addf0089d1209518e453b304d3fde926ff6a
-CCTV-10,http://goo.bkpcp.top/mg/cctv10
 CCTV-10,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv10
 CCTV-10,http://1b6467f415.iok.la:9931
 CCTV-11,http://hg.130707.xyz/5000000011000031106/bestzb/index.m3u8
@@ -392,8 +334,6 @@ CCTV-11,http://hg.130707.xyz/1000000005000265011/ystenlive/index.m3u8
 CCTV-11,http://hg.130707.xyz/5000000006000040011/bestzb/index.m3u8
 CCTV-11,http://hg.130707.xyz/1000000002000019789/ystenlive/index.m3u8
 CCTV-11,https://www.freetv.top/migu/667987558.m3u8?migutoken=6f0aba8bb528e29d40340f6930899fd9d7af9fd013c355a61146d5528e6ac297c46d65935ffcea640455737c324736dd8a29f22083f5450155873c9e89d3a4fb8b6b92b897a7dc62ad55fd891d
-CCTV-11,http://goo.bkpcp.top/mg/cctv11
-CCTV-11,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv11
 CCTV-11,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv11
 CCTV-12,http://hg.130707.xyz/6000000001000022586/wasusyt/index.m3u8
 CCTV-12,http://hg.130707.xyz/1000000001000032494/ystenlive/index.m3u8
@@ -402,15 +342,12 @@ CCTV-12,http://hg.130707.xyz/1000000005000265012/ystenlive/index.m3u8
 CCTV-12,http://hg.130707.xyz/1000000001000001640/ystenlive/index.m3u8
 CCTV-12,http://hg.130707.xyz/5000000006000040012/bestzb/index.m3u8
 CCTV-12,https://www.freetv.top/migu/673168185.m3u8?migutoken=6da0b98d673331a792733285434b6f75aefe1d72574d51d388f210f853362b7f5cd07a7969ae76778b0d05129f6c205abeb3a168906b638ece23bdde93d5a86f47482052cd9b44f53ceefb2207
-CCTV-12,http://goo.bkpcp.top/mg/cctv12
 CCTV-12,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv12
 CCTV-12,http://1b6467f415.iok.la:9931
 CCTV-13,http://hg.130707.xyz/5000000011000031108/bestzb/index.m3u8
 CCTV-13,http://hg.130707.xyz/5000000005000001827/bestzb/index.m3u8
 CCTV-13,http://hg.130707.xyz/1000000002000021303/ystenlive/index.m3u8
 CCTV-13,https://www.freetv.top/migu/608807423.m3u8?migutoken=b3b4ddc2f6494b8b098f8722480f65f33fabde80e2873f9c7ad3a37c1d0e0053da396027d844896109a0c960d9c8be0b4932204b5648e71ef398f07c48501fade68f689c2175b139ba190f4ab4
-CCTV-13,http://goo.bkpcp.top/mg/cctv13
-CCTV-13,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv13
 CCTV-13,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv13
 CCTV-14,http://hg.130707.xyz/5000000004000006673/bestzb/index.m3u8
 CCTV-14,http://hg.130707.xyz/6000000001000013647/wasusyt/index.m3u8
@@ -419,8 +356,6 @@ CCTV-14,http://hg.130707.xyz/1000000005000265013/ystenlive/index.m3u8
 CCTV-14,http://hg.130707.xyz/5000000010000023358/bestzb/index.m3u8
 CCTV-14,http://hg.130707.xyz/1000000001000021349/ystenlive/index.m3u8
 CCTV-14,https://www.freetv.top/migu/624878440.m3u8?migutoken=1b7aa8a15094a26172919cd883595f1a0cb5460e33b4201b6005928c8b8c5c489012c8c4b08450876f1b5968978b5e37bde9477f4312ec274de2e023d796328408517d2b766797d50e24fcae1e
-CCTV-14,http://goo.bkpcp.top/mg/cctv14
-CCTV-14,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv14
 CCTV-14,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv14
 CCTV-14,http://1b6467f415.iok.la:9931
 CCTV-15,http://hg.130707.xyz/5000000011000031109/bestzb/index.m3u8
@@ -428,8 +363,6 @@ CCTV-15,http://hg.130707.xyz/1000000005000265014/ystenlive/index.m3u8
 CCTV-15,http://hg.130707.xyz/1000000002000008163/ystenlive/index.m3u8
 CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=ecd60d6a580d9f4027ec08213b2a5beffae7f99e3e556123f72b08c8d0bedb77620cbbc5d72108ff458b15f605abc992ccdc991b35dd34802a57ca114b8f7875c9bce1ddfe5bd6775f12be875a
 CCTV-15,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000512
-CCTV-15,http://goo.bkpcp.top/mg/cctv15
-CCTV-15,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv15
 CCTV-15,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv15
 CCTV-16,http://hg.130707.xyz/1000000006000233002/ystenlive/index.m3u8
 CCTV-16,http://hg.130707.xyz/5000000008000023253/bestzb/index.m3u8
@@ -441,8 +374,6 @@ CCTV-17,http://hg.130707.xyz/1000000005000265015/ystenlive/index.m3u8
 CCTV-17,http://hg.130707.xyz/1000000005000056836/ystenlive/index.m3u8
 CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=9094be8a5828bcdca0c02d6805bd52cc36e4d16a29031a320eaed60d6d74d5b36653a81c659450938ab30e91f4b27468f176d304463164c178f446ff6d44d623dd787da315c58de6d4d0010bb1
 CCTV-17,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000513
-CCTV-17,http://goo.bkpcp.top/mg/cctv17
-CCTV-17,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv17
 CCTV-17,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv17
 CCTV-17,http://1b6467f415.iok.la:9931
 CETV1,https://www.freetv.top/migu/923287154.m3u8?migutoken=2af7fbb8ce3b47ed70a419627f3a826a003ec05fc98e1300267a942f881b0170a0fac35c03302b3552841e73fb9a20f5e63f2e4ac9cebf4a6e1a9477def7aaa46d3e570600d2c646cfc1a4056f
@@ -523,9 +454,6 @@ CETV4,https://www.freetv.top/migu/923287339.m3u8?migutoken=0afe42c3ce22a7b3624f2
 海南卫视,http://hg.130707.xyz/1000000002000023773/ystenlive/index.m3u8
 海南卫视,https://www.freetv.top/migu/947472502.m3u8?migutoken=08e4f0a8406e0568072d73128261da46b494eb27f10168ce74d2e5951b156debb2e594c2d06ea670544e898bb0b3eca734ce31178557f28d0d80aad52e82012c4942bf9009f9aaf8433cc2beda
 海南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226465
-海南卫视,http://goo.bkpcp.top/mg/hinws
-海南卫视,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=hinws
-海南卫视,http://120.55.49.231:3095/rtp/233.50.201.55:5140
 海南卫视,http://139.196.151.191:2051/rtp/239.45.1.81:5140
 海南卫视,http://139.129.231.228:50060/rtp/239.21.2.14:5002
 河北卫视,http://hg.130707.xyz/5000000006000040016/bestzb/index.m3u8
@@ -538,7 +466,6 @@ CETV4,https://www.freetv.top/migu/923287339.m3u8?migutoken=0afe42c3ce22a7b3624f2
 河南卫视,http://hg.130707.xyz/5000000005000017925/bestzb/index.m3u8
 河南卫视,https://www.freetv.top/migu/790187291.m3u8?migutoken=540a9bc0d69c1e614e01dd714b7da901a27708014a14f38c819b7f34691276bc7847be6a5fc03177913f84e86b8ff2786d144de758d7f8f83986ade02f73a10f051be7ec77d91ecc47c7e135ce
 河南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480
-河南卫视,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=hnws
 河南卫视,http://139.129.231.228:50060/rtp/239.21.2.37:5002
 吉林卫视,http://hg.130707.xyz/5000000011000031117/bestzb/index.m3u8
 吉林卫视,http://hg.130707.xyz/1000000002000027730/ystenlive/index.m3u8
@@ -562,7 +489,6 @@ CETV4,https://www.freetv.top/migu/923287339.m3u8?migutoken=0afe42c3ce22a7b3624f2
 宁夏卫视,http://hg.130707.xyz/1000000002000031451/ystenlive/index.m3u8
 宁夏卫视,http://hg.130707.xyz/5000000006000040022/bestzb/index.m3u8
 宁夏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225632
-宁夏卫视,http://120.55.49.231:3095/rtp/233.50.201.57:5140
 宁夏卫视,http://139.196.151.191:2051/rtp/239.45.1.213:5140
 宁夏卫视,http://139.129.231.228:50060/rtp/239.21.1.44:5002
 宁夏卫视,http://1b6467f415.iok.la:9931
@@ -570,7 +496,6 @@ CETV4,https://www.freetv.top/migu/923287339.m3u8?migutoken=0afe42c3ce22a7b3624f2
 青海卫视,http://hg.130707.xyz/5000000006000040015/bestzb/index.m3u8
 青海卫视,https://www.freetv.top/migu/947472506.m3u8?migutoken=a7a65eee6c0a3affcf3bda6339f24a4157b7b0a12b5a8647af93e2f3ff5b5397d9e4fb9ba90a49ba29ae5a8cac575c3ac20426bdaedbe50b3c577e5bdc429909a4d7733d44a42acd173631d99c
 青海卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225628
-青海卫视,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=qhws
 青海卫视,http://1b6467f415.iok.la:9931
 山东卫视,http://hg.130707.xyz/6000000001000004134/wasusyt/index.m3u8
 山东卫视,http://hg.130707.xyz/1000000001000016568/ystenlive/index.m3u8
@@ -644,20 +569,20 @@ CETV4,https://www.freetv.top/migu/923287339.m3u8?migutoken=0afe42c3ce22a7b3624f2
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941621&extension=ts&play_token=vFR5CkmzbA
 TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571185&extension=ts&play_token=wD7CZpooiF
+纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
 纬来体育,http://ku9.fr.to/smt.php?id=videolandsport
-纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
-纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,rtmp://220.130.201.73/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 Viutv,https://live.hkdvb.com/hls/live/99.m3u8?token=809688637328974
 Viutv,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
+东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
-东森超视,rtmp://f13h.mine.nu/sat/tv331
 民視台灣台,http://ku9.fr.to/smt.php?id=ftvtaiwan_twn
 民視,rtmp://f13h.mine.nu/sat/tv051
 中視,rtmp://f13h.mine.nu/sat/tv091
@@ -667,13 +592,11 @@ TVBS新聞,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941
 中天新聞台,http://cdn.iptv8k.top/dl/jspd.php?id=1
 寰宇新聞台,http://ku9.fr.to/smt.php?id=huanyuxinwen_twn
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-經典電影台,http://goo.bkpcp.top/mg/jdxgdy
 
 ☘️广东频道,#genre#
 广东民生,http://120.77.205.62:8087/rtp/239.77.0.5:5146
 广东民生,http://120.77.205.62:8087/rtp/239.77.0.225:5146
 大湾区卫视,https://www.freetv.top/migu/608917627.m3u8?migutoken=a6dc8c347b6c7f1975e8154caee256b5b50bed49f43959c84538c0e0c573e47d8d8fcff96768236f7d5a148601e2112e36767c5cca5a75c44f6dd32e1354745eb502bae3b0c04fd7825de13964
-大湾区卫视,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=dwqws
 大湾区卫视,http://nn.7x9d.cn/组播/咪咕视频.php?id=dwqws
 大湾区卫视,http://120.77.205.62:8087/rtp/239.77.0.215:5146
 大湾区卫视,http://120.77.205.62:8087/rtp/239.77.1.12:5146
@@ -696,25 +619,17 @@ TVBS新聞,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941
 茂名公共,http://120.77.205.62:8087/rtp/239.77.0.207:5146
 
 ☘️浙江频道,#genre#
-浙江少儿,http://120.55.49.231:3095/rtp/233.50.201.138:5140
-杭州综合,http://goo.bkpcp.top/mg/hzzh
 杭州综合,http://www.jeremyoto.com:82/rtp/233.50.201.173:5140
-杭州明珠,http://goo.bkpcp.top/mg/hzmz
 杭州明珠,http://www.jeremyoto.com:82/rtp/233.50.201.174:5140
-杭州生活,http://goo.bkpcp.top/mg/hzsh
 杭州生活,http://www.jeremyoto.com:82/rtp/233.50.201.175:5140
-杭州影视,http://goo.bkpcp.top/mg/hzys
 杭州影视,http://www.jeremyoto.com:82/rtp/233.50.201.176:5140
 杭州青少,http://www.jeremyoto.com:82/rtp/233.50.201.177:5140
-杭州少体,http://goo.bkpcp.top/mg/hzse
 杭州导视,http://www.jeremyoto.com:82/rtp/233.50.201.182:5140
 宁波TV1,http://www.jeremyoto.com:82/rtp/233.50.201.168:5140
 宁波TV2,http://www.jeremyoto.com:82/rtp/233.50.201.178:5140
 宁波TV3,http://www.jeremyoto.com:82/rtp/233.50.201.179:5140
 宁波TV4,http://www.jeremyoto.com:82/rtp/233.50.201.180:5140
-之江纪录,http://goo.bkpcp.top/mg/zjjl
 浙江教科影视,http://hg.130707.xyz/2000000004000000001/hnbblive/index.m3u8
-嵊泗综合,http://goo.bkpcp.top/mg/ssxwzh
 
 ☘️北京频道,#genre#
 北京卡酷少儿,http://hg.130707.xyz/7851974109718180595/bestzb/index.m3u8
@@ -722,7 +637,6 @@ TVBS新聞,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941
 北京卡酷少儿,http://hg.130707.xyz/6000000003000002709/wasusyt/index.m3u8
 
 ☘️上海频道,#genre#
-上海外语,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=shics
 上海外语,http://139.196.151.191:2051/rtp/239.45.1.127:5140
 上海新闻综合,http://hg.130707.xyz/5000000011000031110/bestzb/index.m3u8
 上海新闻综合,http://hg.130707.xyz/2000000002000000005/hnbblive/index.m3u8
@@ -734,34 +648,27 @@ TVBS新聞,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941
 上海都市,http://hg.130707.xyz/5000000010000018926/bestzb/index.m3u8
 上海都市,http://hg.130707.xyz/2000000002000000012/hnbblive/index.m3u8
 东方财经,http://139.196.151.191:2051/rtp/239.45.1.119:5140
-动漫秀场,http://120.55.49.231:3095/rtp/233.50.201.184:5140
 动漫秀场,http://139.196.151.191:2051/rtp/239.45.3.134:5140
-哈哈炫动,http://120.55.49.231:3095/rtp/233.50.201.74:5140
 哈哈炫动,http://139.196.151.191:2051/rtp/239.45.1.55:5140
 哈哈炫动,http://139.129.231.228:50060/rtp/239.21.1.51:5002
 欢笑剧场,https://www.freetv.top/migu/790187880.m3u8?migutoken=4d8e3250410380f579793786512cd27aebb39196ad88181c1376d70bd0b0149114745fc0a44279d2303165a9e35b7ee1bc2b92829593eebc6fe4ab19c73ec91e1510aa9842b03691b16647f2eb
 法治天地,https://www.freetv.top/migu/790188943.m3u8?migutoken=367ac4102d538f72fece2ff0702e514fcba806984f3db29ea22e6b338c95d5b07a05004f36c14d85489ba6939b6610760a815c28e08594d0fb1f76ad2def28ed3b5eafac77964df276f8d16cab
 生活时尚,http://139.196.151.191:2051/rtp/239.45.3.132:5140
-第一财经,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=dycj
 第一财经,http://139.196.151.191:2051/rtp/239.45.3.211:5140
 
 ☘️重庆频道,#genre#
 
 ☘️江苏频道,#genre#
 优漫卡通,https://www.freetv.top/migu/626064703.m3u8?migutoken=27e994e631c36d5062f68647ea913fc1eb9078029cbc9766623de2ab154baa50a64e6d006c5f0eb60be0b210bb0e86ab1a5ffa630b8f4139ffeb20c85559c4560608324c3c0a98ee0f0caad385
-优漫卡通,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=ymkt
 优漫卡通,http://139.129.231.228:50060/rtp/239.21.1.50:5002
 南京十八,https://www.freetv.top/migu/838151753.m3u8?migutoken=287658a8c459393f530d41bb2235e39894879277dc28c2e908192bf99bfd13edf76ace9150c530c628f23280b6479f24a614ace62b6982384557ff05e8cbbc39b0aace6e4de191bc1e020f6550
 南京教科,https://www.freetv.top/migu/838153729.m3u8?migutoken=ca8a541ca6310f7bfc3a1bfbe67e20de6225b049d0e980cf7c39cc2c33974104b66b006a689f51f3ce6be72b66439fcde25adde8497fa4a0307ba2ac3c9c66835fa0297c17f74fb94d7e2728f8
-南京教科,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=njkj
 南京新闻综合,https://www.freetv.top/migu/838109047.m3u8?migutoken=d46a1c7d5e847655ddc46bd0dc16c4c79c5c701f7071b5066720e70e77f07f246f1d34ae957d08c62da24e2521595eae6c15064258c4a9f5ffcbdb6702bd5e5c7b63d5d6842daed774c481e077
-南京新闻综合,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=njxwzh
 徐州新聞綜合,https://www.freetv.top/migu/639731747.m3u8?migutoken=7983c3a36915ae89ec38aad7ca557e4b95fc4a8ffdf98105d1214123f9aa76080df14d2994faf6a42151018e4e23f088cd5f271f5441f0c95d18f2ca4c50ab92369d9964e08ab277d3bfe58db9
 江苏城市,https://www.freetv.top/migu/626064714.m3u8?migutoken=cff615dbd1fcb3c0ac63b3d75bb142712ff8e4aa41542c3f824caeb529a7cd99d056833b1749cbecc445733a329348d955ffb0e74479c641c3e45bf6378beae21713ba6dcf0c76c48f7878544c
 江苏影视,https://www.freetv.top/migu/626064697.m3u8?migutoken=14c964ce57310e9b2aac8aa9a5475ccefb2d75e4082b4b85b14a335a16afcbec4d9fd2bc89ab644a4bfbd1f7ed32d2ff5e2e0458e77e7a1a1371ab928968a8b1450dadd3733ba45c6d5759dbb8
 江苏教育,https://www.freetv.top/migu/628008321.m3u8?migutoken=9fdba7c1c017169064edc48ccbe6f75b7758fd35e3c009e97b0ced53e731a6331cdbd62c20a2337061459a3cae67e62b74fde53b616362c46ad5dc8082bef19967e1b1cd2b08b8d1e7339dcf5c
 淮安新闻综合,https://www.freetv.top/migu/639731826.m3u8?migutoken=e57f31966d42a25bf81a93dfb5ab561eb1550841224c760b2cd79dd188e6ef36eede7a835e79c2a1539738f259077f9ebb6237b4951622f01c7ed60a42fbbf4a53ab38a534caed28d75687767a
-淮安新闻综合,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=haxwzh
 连云港新闻综合,https://www.freetv.top/migu/639731715.m3u8?migutoken=6042bc7fc0f4687d2d47e0ccb9fe6faf3ed61dcafdd12f5eea20985a2d2a643880e1d701d8eb65d048cc5874f130dc285a8328f0701e775f0ac5d3c9b7d7874986d00722aa93a00ee72ed18b55
 
 ☘️辽宁频道,#genre#
@@ -818,7 +725,6 @@ TVBS新聞,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941
 山东少儿,http://139.129.231.228:50060/rtp/239.21.1.208:5002
 山东新闻,http://139.129.231.228:50060/rtp/239.21.1.140:5002
 山东国际,http://139.129.231.228:50060/rtp/239.21.1.61:5002
-山东教育,http://goo.bkpcp.top/mg/sdjy
 山东教育,http://139.129.231.228:50060/rtp/239.21.1.169:5002
 山东居家购物,http://139.129.231.228:50060/rtp/239.21.1.112:5002
 山东农科,http://139.129.231.228:50060/rtp/239.21.1.183:5002
@@ -851,6 +757,7 @@ TVBS新聞,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941
 
 ☘️安徽频道,#genre#
 安徽国际,http://api2.52tb.xyz/info?id=586&token=20230405tndmhg
+安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
 安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959.flv
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
 合肥公共,http://api2.52tb.xyz/info?id=588&token=20230405tndmhg
@@ -873,19 +780,17 @@ TVBS新聞,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941
 🎬电影频道,#genre#
 CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=349eea7192c2c2355da977cb96d45425817e45edff704da0ef6f38deb2654b2d88e02820ed5ae085e553d5354125ce72b3c078c70ff7bc803c4920219da310f38683a377836b73ac832eb34841
 CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=182270e32a66873c8b3f92ae65c82427f940bdb97571d39e4d7af517b22aee0036f6724970c195000d96589b7daeb701e1136223a5e873bb3c7ba93b94c8d6e27bcc459d8bc1be6a3d98aa377d
-CHC动作电影,http://goo.bkpcp.top/mg/chcdz
 NewTV惊悚悬疑,http://hg.130707.xyz/2000000003000000015/hnbblive/index.m3u8
 NewTV惊悚悬疑,http://hg.130707.xyz/1000000004000024282/ystenlive/index.m3u8
 NewTV动作电影,http://hg.130707.xyz/2000000003000000017/hnbblive/index.m3u8
 NewTV动作电影,http://hg.130707.xyz/1000000004000018653/ystenlive/index.m3u8
 黑莓电影,http://hg.130707.xyz/2000000003000000001/hnbblive/index.m3u8
 黑莓电影,http://hg.130707.xyz/1000000004000019624/ystenlive/index.m3u8
-经典电影,http://goo.bkpcp.top/mg/jdxgdy
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
 星空卫视,http://1b6467f415.iok.la:9931
+东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
-东森超视,rtmp://f13h.mine.nu/sat/tv331
 
 🎥咪咕直播,#genre#
 
@@ -899,8 +804,6 @@ CCTV-5,http://hg.130707.xyz/5000000010000016619/bestzb/index.m3u8
 CCTV-5,http://hg.130707.xyz/1000000001000004794/ystenlive/index.m3u8
 CCTV-5,https://www.freetv.top/migu/641886683.m3u8?migutoken=5e1f646f194fe505d91d562e427139a8cc1907bd48dbf0388a09a0a57428cb16498ab48b116a9fe1e0d3ef6b41b7157fda1e479f019ed20c5e1f164191b09d3d0e81f1d62352a2b14387f833e5
 CCTV-5,https://live.hkdvb.com/hls/live/701.m3u8?token=809688637328974
-CCTV-5,http://goo.bkpcp.top/mg/cctv5
-CCTV-5,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv5
 CCTV-5,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv5
 CCTV-5+,http://hg.130707.xyz/6000000001000015875/wasusyt/index.m3u8
 CCTV-5+,http://hg.130707.xyz/1000000001000018504/ystenlive/index.m3u8
@@ -916,11 +819,11 @@ CCTV-5+,http://1b6467f415.iok.la:9931
 广东体育,http://120.77.205.62:8087/rtp/239.77.0.112:5146
 广东体育,http://120.77.205.62:8087/rtp/239.77.0.168:5146
 广东体育,http://120.77.205.62:8087/rtp/239.77.1.97:5146
+纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
 纬来体育,http://ku9.fr.to/smt.php?id=videolandsport
-纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
-纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,rtmp://220.130.201.73/sat/tv721
 五星体育,http://139.196.151.191:2051/rtp/239.45.3.210:5140
 劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=327f98918bf7972dcf9fd71126bf9b7e0a4daf0681d0c212706bd55e40e3d919ea1e2ab13f7e1275958beff2bace2c9b5899adf7fcb5d54f654ebeb4641f98a9ea2811fd521134361362f63a6a
@@ -940,6 +843,12 @@ CCTV-5+,http://1b6467f415.iok.la:9931
 黑莓动画,http://hg.130707.xyz/2000000003000000002/hnbblive/index.m3u8
 黑莓动画,http://hg.130707.xyz/1000000004000021734/ystenlive/index.m3u8
 24H国漫热播,https://lunbo.freetv.top/yy/1353937086
+七龙珠,http://1.94.31.214:35455/huya/11601966
+海绵宝宝,http://1.94.31.214:35455/huya/11352919
+中华小当家,http://1.94.31.214:35455/huya/11342413
+斗破苍穹玄幻剧,https://live.metshop.top/yy/1356051105
+猫和老鼠,http://1.94.31.214:35455/huya/11352879
+蜡笔小新,http://1.94.31.214:35455/huya/11352970
 漫画解说,http://liushizupu.site:35455/yy/1382735568
 
 🎮游戏频道,#genre#
@@ -949,16 +858,26 @@ CCTV-5+,http://1b6467f415.iok.la:9931
 
 🏛经典剧场,#genre#
 笑傲江湖,https://lunbo.freetv.top/yy/1354930909
+笑傲江湖,https://live.metshop.top/yy/1354936128
+笑傲江湖,https://live.metshop.top/yy/1354930909
 天龙八部,https://lunbo.freetv.top/yy/1351814644
+天龙八部,https://live.metshop.top/yy/1351814644
+天龙八部,https://live.metshop.top/yy/1382749944
+天龙八部,https://live.metshop.top/yy/1382736855
 鹿鼎记,https://lunbo.freetv.top/yy/1354658049
 鹿鼎记,https://lunbo.freetv.top/yy/28265277
-鹿鼎记,http://wab201.win:35455/yy/28265277
+鹿鼎记,https://live.metshop.top/yy/28265277
 仙剑奇侠传,https://lunbo.freetv.top/yy/1382749903
-仙剑奇侠传,http://wab201.win:35455/yy/1382749903
+仙剑奇侠传,https://live.metshop.top/yy/1382749903
 三国演义,https://lunbo.freetv.top/yy/1354930932
-新白娘子传奇,http://wab201.win:35455/yy/1354490667
+三国演义,https://live.metshop.top/huya/11602081
+三国演义,https://live.metshop.top/yy/1354936241
+新白娘子传奇,https://live.metshop.top/yy/1354490667
 封神榜,https://lunbo.freetv.top/yy/1353426319
+封神榜,https://live.metshop.top/yy/1353426319
+上海滩,https://live.metshop.top/yy/1382745184
 射雕英雄传,https://lunbo.freetv.top/yy/1354210357
+射雕英雄传,https://live.metshop.top/yy/40959929
 
 📺CGTN频道,#genre#
 CGTN,http://hg.130707.xyz/7745129417417101820/hnbblive/index.m3u8
