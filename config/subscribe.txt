@@ -2,7 +2,7 @@
 # This is a list of subscription sources, with one subscription address per line
 
 
-https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
+https://raw.githubusercontent.com/lg-yyds/gdtvapi/refs/heads/master/TXT/diy.txt
 https://live.hkdvb.com/hls/playlist.m3u?token=809688637328974
 https://raw.githubusercontent.com/lg-yyds/m3u8-m3u/refs/heads/main/output/index.txt
 https://raw.githubusercontent.com/lg-yyds/tt/refs/heads/main/JN/EXT/TXT/YTTVS.txt
