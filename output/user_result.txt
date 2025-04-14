@@ -6,11 +6,9 @@
 凤凰资讯,https://www.youtube.com/watch?v=LNux6O0Fj6A
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-凤凰资讯,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一凤凰资讯
 凤凰资讯,http://218.202.220.2:5000/nn_live.ts?id=FHZX
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
-凤凰香港,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一凤凰香港
 CCTV-1,https://arm.130707.xyz/TVOD/6000000001000029752/wasusyt/index.m3u8
 CCTV-1,https://arm.130707.xyz/TVOD/1000000001000018602/ystenlive/index.m3u8
 CCTV-1,https://arm.130707.xyz/TVOD/5000000004000002226/bestzb/index.m3u8
@@ -189,13 +187,16 @@ CCTV-17,http://api2.52tb.xyz/info?id=70&token=20230218zdxlqr
 陕西卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010113
 陕西卫视,http://api2.52tb.xyz/info?id=98&token=20230218zdxlqr
 七彩戏剧,http://139.196.214.238/rtp/239.45.3.61:5140
-新闻综合,http://139.129.231.228/rtp/239.21.1.193:5002
+七彩戏剧,http://139.196.151.191:2051/rtp/239.45.3.61:5140
+东方影视,http://139.196.151.191:2051/rtp/239.45.3.237:5140
+新闻综合,http://139.196.151.191:2051/rtp/239.45.3.209:5140
 新闻综合,http://api3.52tb.xyz/info?id=371&token=20221127jxwhhemby
 新闻综合,http://api2.52tb.xyz/info?id=371&token=20230218qkyjia
 CHC家庭影院,http://api3.52tb.xyz/info?id=220&token=20221127jxwhhemby
 CHC家庭影院,http://api2.52tb.xyz/info?id=220&token=20230218jsyklh
 CHC动作电影,http://api3.52tb.xyz/info?id=221&token=20221127jxwhhemby
 CHC动作电影,http://api2.52tb.xyz/info?id=219&token=20230218jsyklh
+游戏风云,http://139.196.151.191:2051/rtp/239.45.3.131:5140
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
@@ -430,7 +431,6 @@ CCTV-17,http://api2.52tb.xyz/info?id=70&token=20230218zdxlqr
 重庆卫视,http://api2.52tb.xyz/info?id=37&token=20230218qkyjia
 东南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010096
 东南卫视,http://nctv.top/IDOEPpiryt/fjtv.php?id=5
-东南卫视,http://aa3.kkwk111.top/fj.php?id=5
 东南卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=dongnan&P2PChannelID=pd://cctv_p2p_dongnan
 东南卫视,http://211.142.224.62:2023
 东南卫视,http://api3.52tb.xyz/info?id=29&token=20230402fxrjwi
@@ -460,7 +460,6 @@ CCTV-17,http://api2.52tb.xyz/info?id=70&token=20230218zdxlqr
 海南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010083
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
 海南卫视,https://www.yangshipin.cn/tv/home?pid=600002506
-海南卫视,http://139.129.231.228/rtp/239.21.2.14:5002
 海南卫视,http://api3.52tb.xyz/info?id=38&token=20221127jxwhhemby
 海南卫视,http://api2.52tb.xyz/info?id=38&token=20230120rdbtgv
 河北卫视,https://arm.130707.xyz/TVOD/5000000006000040016/bestzb/index.m3u8
@@ -498,6 +497,7 @@ CCTV-17,http://api2.52tb.xyz/info?id=70&token=20230218zdxlqr
 辽宁卫视,http://api2.52tb.xyz/info?id=94&token=20230215crnyqz
 内蒙古卫视,https://arm.130707.xyz/TVOD/1000000002000014080/ystenlive/index.m3u8
 内蒙古卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225634
+内蒙古卫视,http://139.196.151.191:2051/rtp/239.45.1.238:5140
 内蒙古卫视,http://139.129.231.228:50060/rtp/239.21.1.41:5002
 内蒙古卫视,http://api3.52tb.xyz/info?id=44&token=20230402fxrjwi
 内蒙古卫视,http://api2.52tb.xyz/info?id=146&token=20230218zdxlqr
@@ -539,6 +539,7 @@ CCTV-17,http://api2.52tb.xyz/info?id=70&token=20230218zdxlqr
 深圳卫视,http://api3.52tb.xyz/info?id=28&token=20230402fxrjwi
 深圳卫视,http://api2.52tb.xyz/info?id=79&token=20230218zdxlqr
 三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
+三沙卫视,http://139.196.151.191:2051/rtp/239.45.1.82:5140
 三沙卫视,http://139.129.231.228:50060/rtp/239.21.2.9:5002
 天津卫视,https://arm.130707.xyz/TVOD/5000000004000006827/bestzb/index.m3u8
 天津卫视,https://arm.130707.xyz/TVOD/6000000001000009186/wasusyt/index.m3u8
@@ -557,6 +558,7 @@ CCTV-17,http://api2.52tb.xyz/info?id=70&token=20230218zdxlqr
 新疆卫视,https://arm.130707.xyz/TVOD/1000000002000029441/ystenlive/index.m3u8
 新疆卫视,https://arm.130707.xyz/TVOD/5000000006000040018/bestzb/index.m3u8
 新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635
+新疆卫视,http://139.196.151.191:2051/rtp/239.45.1.116:5140
 新疆卫视,http://139.129.231.228:50060/rtp/239.21.1.45:5002
 云南卫视,https://arm.130707.xyz/TVOD/5000000011000031120/bestzb/index.m3u8
 云南卫视,https://arm.130707.xyz/TVOD/1000000002000024694/ystenlive/index.m3u8
@@ -584,11 +586,9 @@ CCTV-17,http://api2.52tb.xyz/info?id=70&token=20230218zdxlqr
 凤凰资讯,https://www.youtube.com/watch?v=LNux6O0Fj6A
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-凤凰资讯,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一凤凰资讯
 凤凰资讯,http://218.202.220.2:5000/nn_live.ts?id=FHZX
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
-凤凰香港,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一凤凰香港
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰卫视,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941621&extension=ts&play_token=vFR5CkmzbA
@@ -602,16 +602,13 @@ TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
-纬来体育,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一纬来体育
 纬来体育,http://api3.52tb.xyz/info?id=376&token=20221127jxwhhemby
 纬来体育,rtmp://116.93.98.236/sat/tv721.flv
 纬来体育,rtmp://220.130.201.73/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 Viutv,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
-三立台湾,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立台湾
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
-三立新闻,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立INEW
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
@@ -755,10 +752,9 @@ TVBS台劇台,http://4gtv.mumi.rip:9877/285/4gtv-live088/index.m3u8
 經典電影台,http://4gtv.mumi.rip:9877/201/4gtv-live021/index.m3u8
 經典電影台,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
 經典電影台,http://lxajh.top/tv/douyu.php?id=74374
-經典電影台,http://huanqiuzhibo.cn/manifest/douyu.php?id=6091425
-經典電影台,http://zb.xmzb.xyz/888.php?id=be一一经典电影
-經典電影台,http://124.248.69.76:26781/yy/1356363815
 經典電影台,http://61.133.118.228:5001/yy/1356363815
+經典電影台,http://124.248.69.76:26781/yy/1356363815
+經典電影台,http://huanqiuzhibo.cn/manifest/douyu.php?id=6091425
 經典電影台,http://api2.52tb.xyz/info?id=1020&token=20230404dmgnht
 經典卡通台,http://4gtv.mumi.rip:9877/202/4gtv-live022/index.m3u8
 精選動漫台,http://4gtv.mumi.rip:9877/204/4gtv-live024/index.m3u8
@@ -773,6 +769,7 @@ TVBS台劇台,http://4gtv.mumi.rip:9877/285/4gtv-live088/index.m3u8
 广州综合,http://v4d.xiepeiru.top:1123/iptv/gq/GuangZhouZongHe
 广州综合,http://120.77.205.62:8087/rtp/239.253.43.66:5146
 广州综合,http://120.77.205.62:8087/rtp/239.253.43.71:5146
+广州影视,http://tp88.cn/IPTV/guangdong/gztv.php?id=yingshi
 广州影视,http://120.77.205.62:8087/rtp/239.253.43.73:5146
 广州影视,http://120.77.205.62:8087/rtp/239.253.43.68:5146
 广州竞赛,http://nn.7x9d.cn/地方台8563/gsw.php?id=gzjs
@@ -811,23 +808,30 @@ TVBS台劇台,http://4gtv.mumi.rip:9877/285/4gtv-live088/index.m3u8
 
 ☘️上海频道,#genre#
 上海外语,http://139.196.214.238/rtp/239.45.1.127:5140
+上海外语,http://139.196.151.191/rtp/239.45.1.127:5140
+上海外语,http://139.196.151.191:2051/rtp/239.45.1.127:5140
 上海新闻综合,https://arm.130707.xyz/TVOD/5000000011000031110/bestzb/index.m3u8?OtherName=7M1080_百视通
 上海新闻综合,https://arm.130707.xyz/TVOD/2000000002000000005/hnbblive/index.m3u8?OtherName=2.5M576_湖南bblive
 上海第一财经,https://arm.130707.xyz/TVOD/5000000010000027146/bestzb/index.m3u8
 上海第一财经,https://arm.130707.xyz/TVOD/2000000002000000004/hnbblive/index.m3u8
 上海纪实,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010067
-上海纪实,http://139.129.231.228/rtp/239.21.1.171:5002
 上海都市,https://arm.130707.xyz/TVOD/5000000010000018926/bestzb/index.m3u8
 上海都市,https://arm.130707.xyz/TVOD/2000000002000000012/hnbblive/index.m3u8
 上海都市,http://api3.52tb.xyz/info?id=372&token=20221127jxwhhemby
-东方财经,http://124.248.69.76:26781/douyu/9548279
 东方财经,http://61.133.118.228:5001/douyu/9548279
+东方财经,http://124.248.69.76:26781/douyu/9548279
+东方财经,http://139.196.151.191:2051/rtp/239.45.1.119:5140
 动漫秀场,http://124.248.69.76:26781/douyu/9548279
 动漫秀场,http://139.196.214.238/rtp/239.45.3.134:5140
+动漫秀场,http://139.196.151.191/rtp/239.45.3.134:5140
+动漫秀场,http://139.196.151.191:2051/rtp/239.45.3.134:5140
 哈哈炫动,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010117
 哈哈炫动,http://139.196.214.238/rtp/239.45.1.55:5140
+哈哈炫动,http://139.196.151.191/rtp/239.45.1.55:5140
 哈哈炫动,http://139.129.231.228:50060/rtp/239.21.1.51:5002
+生活时尚,http://139.196.151.191:2051/rtp/239.45.3.132:5140
 第一财经,http://139.196.214.238/rtp/239.45.3.211:5140
+第一财经,http://139.196.151.191:2051/rtp/239.45.3.211:5140
 
 ☘️重庆频道,#genre#
 垫江综合,rtmp://play-sh.quklive.com/live/1672366847646284
@@ -860,6 +864,7 @@ TVBS台劇台,http://4gtv.mumi.rip:9877/285/4gtv-live088/index.m3u8
 湖南娱乐,http://156.238.253.62:5555/tvbox/公众号好享生活小助手/湖南.php?id=hnyl
 湖南国际,https://arm.130707.xyz/TVOD/5015828848322021526/hnbblive/index.m3u8
 金鹰纪实,http://156.238.253.62:5555/tvbox/公众号好享生活小助手/湖南.php?id=jyjs
+金鹰纪实,http://139.196.151.191/rtp/239.45.1.45:5140
 金鹰纪实,http://139.129.231.228:50060/rtp/239.21.1.170:5002
 湖南金鹰纪实,https://arm.130707.xyz/TVOD/5000000011000031203/bestzb/index.m3u8
 湖南金鹰纪实,https://arm.130707.xyz/TVOD/1000000002000011724/ystenlive/index.m3u8
@@ -868,8 +873,8 @@ TVBS台劇台,http://4gtv.mumi.rip:9877/285/4gtv-live088/index.m3u8
 湖北综合,http://58.19.133.144:9901
 
 ☘️广西频道,#genre#
-南宁公共,http://api2.52tb.xyz/info?id=724&token=20230331czbpek
 南宁公共,rtmp://live.gxrb.com.cn/tv/nntv_gg
+南宁公共,http://api2.52tb.xyz/info?id=724&token=20230331czbpek
 南宁新闻综合,rtmp://hls.nntv.cn/nnlive/XWZH_24
 南宁新闻综合,rtmp://live.gxrb.com.cn/tv/nntv
 南宁新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
@@ -890,6 +895,7 @@ TVBS台劇台,http://4gtv.mumi.rip:9877/285/4gtv-live088/index.m3u8
 宝兴综合,rtmp://tv.yunxya.com:1937/channellive/baoxing
 小金综合,rtmp://xjlive.xjxrmt.cn/live/xwpd
 康巴卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225660
+康巴卫视,http://139.196.151.191:2051/rtp/239.45.1.251:5140
 旺苍新闻综合,rtmp://tv.wcrmt.cn/channellive/ch1
 汶川新闻综合,rtmp://live.iwcmt.cn:1936/live/zhxw
 沐川综合,rtmp://tv.mcrm.org.cn:1935/channellive/tv01
@@ -944,37 +950,19 @@ TVBS台劇台,http://4gtv.mumi.rip:9877/285/4gtv-live088/index.m3u8
 ☘️山东频道,#genre#
 山东少儿,http://139.129.231.228:50060/rtp/239.21.1.208:5002
 山东新闻,http://139.129.231.228:50060/rtp/239.21.1.140:5002
-山东国际,http://139.129.231.228/rtp/239.21.1.61:5002
-山东教育,http://139.129.231.228/rtp/239.21.1.169:5002
-山东居家购物,http://139.129.231.228/rtp/239.21.1.112:5002
-山东农科,http://139.129.231.228/rtp/239.21.1.183:5002
 山东齐鲁,http://139.129.231.228:50060/rtp/239.21.1.134:5002
 山东生活,http://139.129.231.228:50060/rtp/239.21.1.175:5002
 山东生活,http://api3.52tb.xyz/info?id=527&token=20221127jxwhhemby
-山东体育,http://139.129.231.228/rtp/239.21.1.141:5002
 山东文旅,http://139.129.231.228:50060/rtp/239.21.1.176:5002
-山东综艺,http://139.129.231.228/rtp/239.21.1.177:5002
 济南新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
-济南都市,http://139.129.231.228/rtp/239.21.1.63:5002
-济南生活,http://139.129.231.228/rtp/239.21.1.64:5002
-济南影视,http://139.129.231.228/rtp/239.21.1.65:5002
-济南娱乐,http://139.129.231.228/rtp/239.21.1.66:5002
-济南少儿,http://139.129.231.228/rtp/239.21.1.68:5002
 济南商务,http://139.129.231.228:50060/rtp/239.21.1.67:5002
 济南教育,http://139.129.231.228:50060/rtp/239.21.1.133:5002
 济南鲁中,http://139.129.231.228:50060/rtp/239.21.1.149:5002
 青州综合,rtmp://sdqz.chinashadt.com:2036/live/stream:1.stream
-青州综合,http://139.129.231.228/rtp/239.21.1.232:5002
-济宁公共,http://139.129.231.228/rtp/239.21.2.20:5002
-济宁教育,http://139.129.231.228/rtp/239.21.1.139:5002
-济宁综合,http://139.129.231.228/rtp/239.21.2.19:5002
 东营综合,http://61.133.118.228:5001/yy/1354930954
 东营综合,rtmp://stream.hhek.cn:9936/live/xwzh_sd?shandd
 中华美食,https://arm.130707.xyz/TVOD/2000000003000000052/hnbblive/index.m3u8
 中华美食,https://arm.130707.xyz/TVOD/1000000005000266015/ystenlive/index.m3u8
-日照科教,http://139.129.231.228/rtp/239.21.1.80:5002
-滨州公共,http://139.129.231.228/rtp/239.21.1.119:5002
-烟台公共,http://139.129.231.228/rtp/239.21.1.117:5002
 
 ☘️山西频道,#genre#
 长子综合,rtmp://zzlive.zzc-media.com/live/xwzh
@@ -1036,10 +1024,9 @@ NewTV动作电影,https://arm.130707.xyz/TVOD/1000000004000018653/ystenlive/inde
 经典电影,http://4gtv.mumi.rip:9877/201/4gtv-live021/index.m3u8
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
 经典电影,http://lxajh.top/tv/douyu.php?id=74374
-经典电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=6091425
-经典电影,http://zb.xmzb.xyz/888.php?id=be一一经典电影
-经典电影,http://124.248.69.76:26781/yy/1356363815
 经典电影,http://61.133.118.228:5001/yy/1356363815
+经典电影,http://124.248.69.76:26781/yy/1356363815
+经典电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=6091425
 经典电影,http://api2.52tb.xyz/info?id=1020&token=20230404dmgnht
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
@@ -1089,16 +1076,15 @@ CCTV-5+,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
-纬来体育,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一纬来体育
 纬来体育,http://api3.52tb.xyz/info?id=376&token=20221127jxwhhemby
 纬来体育,rtmp://116.93.98.236/sat/tv721.flv
 纬来体育,rtmp://220.130.201.73/sat/tv721
 五星体育,http://139.196.214.238/rtp/239.45.3.210:5140
+五星体育,http://139.196.151.191:2051/rtp/239.45.3.210:5140
 五星体育,http://api2.52tb.xyz/info?id=375&token=20230120rdbtgv
 爱体育,https://arm.130707.xyz/TVOD/6000000006000290630/wasusyt/index.m3u8?OtherName=7.2M1080_华数
 爱体育,https://arm.130707.xyz/TVOD/2000000004000000060/hnbblive/index.m3u8
 广州竞赛,http://nn.7x9d.cn/地方台8563/gsw.php?id=gzjs
-山东体育,http://139.129.231.228/rtp/239.21.1.141:5002
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
 
 🪁动画频道,#genre#
@@ -1107,6 +1093,7 @@ CCTV-5+,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
 爱动漫,https://arm.130707.xyz/TVOD/2000000004000000059/hnbblive/index.m3u8
 宝宝动画,https://arm.130707.xyz/TVOD/5000000011000288002/bestzb/index.m3u8
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
+金鹰卡通,http://139.196.151.191:2051/rtp/239.45.3.118:5140
 金鹰卡通,http://139.129.231.228:50060/rtp/239.21.1.48:5002
 黑莓动画,https://arm.130707.xyz/TVOD/2000000003000000002/hnbblive/index.m3u8
 黑莓动画,https://arm.130707.xyz/TVOD/1000000004000021734/ystenlive/index.m3u8
@@ -1117,7 +1104,6 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 海绵宝宝,https://live.metshop.top/douyu/3949681
 海绵宝宝,http://zzy789.xyz/douyu1.php?id=3949681
 海绵宝宝,http://zzy789.xyz/douyu1.php?id=1569773
-海绵宝宝,http://itv.nctv.top:35455/douyu/12400977
 中华小当家,https://live.metshop.top/huya/11342413
 中华小当家,http://zzy789.xyz/bili.php?id=中华一番 选原画看真2K
 中华小当家,http://www.douzhicloud.site:35455/huya/11342413
@@ -1127,8 +1113,8 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 经典动漫,http://43.138.0.72:35455/yy/24180320
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 漫画解说,https://www.goodiptv.club/douyu/5907076
-漫画解说,http://124.248.69.76:26781/douyu/5907076
 漫画解说,http://61.133.118.228:5001/yy/1382735568
+漫画解说,http://124.248.69.76:26781/douyu/5907076
 漫画解说,http://zzy789.xyz/douyu1.php?id=5907076
 
 🎮游戏频道,#genre#
@@ -1137,32 +1123,30 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 🎵音乐频道,#genre#
 
 🏛经典剧场,#genre#
-笑傲江湖,http://i.880824.xyz:35455/huya/23865142
 笑傲江湖,http://124.248.69.76:26781/huya/23865142
 笑傲江湖,https://alimov2.a.kwimgs.com/upic/2023/03/07/20/BMjAyMzAzMDcyMDMyNDdfNjE2NzgxMTQwXzk3NzEzNDY4NjgxXzBfMw==_b_B75baa98fedb7da382eb4a29e5f7df2bf.mp4
-天龙八部,http://i.880824.xyz:35455/huya/23903123
+笑傲江湖,http://i.880824.xyz:35455/huya/23865142
+天龙八部,http://www.clmy.cc:35455/yy/1355067965
 天龙八部,https://txmov2.a.kwimgs.com/upic/2021/02/26/11/BMjAyMTAyMjYxMTAwNTBfNDAzMDAxOTlfNDUwNDcyNzM5MTRfMF8z_b_B75ed716649c36f65fc2354f75dba47a5.mp4
 天龙八部,https://godmusic.bs2dl.yy.com/dHZlZmVhMWUxMDYzYjQ0ZmJkYjU4MmE4NDlkYjRmNmMxMy0xMTY2Mzk0Njky?Cf=cf.mp4
 天龙八部,https://live.metshop.top/huya/23903123
 天龙八部,https://live.metshop.top/yy/1351814644
-鹿鼎记,http://i.880824.xyz:35455/yy/28265277
+天龙八部,http://i.880824.xyz:35455/huya/23903123
 鹿鼎记,https://live.metshop.top/yy/28265277
-鹿鼎记,http://itv.nctv.top:35455/douyu/12128227
+鹿鼎记,http://i.880824.xyz:35455/yy/28265277
 三国演义,http://124.248.69.76:26781/huya/11602081
 三国演义,https://live.metshop.top/huya/11602081
 三国演义,https://live.metshop.top/yy/1354936241
 三国演义,http://zzy789.xyz/bili.php?id=27501731
-三国演义,http://itv.nctv.top:35455/yy/1354936241
+新白娘子传奇,http://www.clmy.cc:35455/yy/1354490667
 新白娘子传奇,https://live.metshop.top/yy/1354490667
-新白娘子传奇,http://itv.nctv.top:35455/yy/1354490667
-封神榜,http://i.880824.xyz:35455/huya/29465849
+封神榜,http://www.clmy.cc:35455/yy/1353426319
 封神榜,https://live.metshop.top/yy/1353426319
-封神榜,http://itv.nctv.top:35455/yy/1356043643
+封神榜,http://i.880824.xyz:35455/huya/29465849
 上海滩,https://txmov2.a.kwimgs.com/upic/2021/02/22/22/BMjAyMTAyMjIyMjU2NDFfMTI0MzE0NjMyOF80NDg1MDgzMTY5NF8yXzM=_b_B35aa4e9376173041991a9a379ff4ac56.mp4
 上海滩,https://live.metshop.top/yy/1382745184
-上海滩,http://itv.nctv.top:35455/yy/1382745184
-射雕英雄传,http://i.880824.xyz:35455/huya/23824164
 射雕英雄传,https://live.metshop.top/yy/40959929
+射雕英雄传,http://i.880824.xyz:35455/huya/23824164
 
 📺CGTN频道,#genre#
 CGTN,https://arm.130707.xyz/TVOD/7745129417417101820/hnbblive/index.m3u8?OtherName=8M1080_湖南bblive
